@@ -42,6 +42,7 @@
 
 ### Basic commands
 
+```
 create laravel project using composer - composer create-project laravel/laravel first_project
 For new controller - php artisan make:controller controllername or php artisan make:controller controllername -r (with basic controller template)
 for new model - php artisan make:model modelname
@@ -49,5 +50,6 @@ for migration - php artisan make:migration tablename
 route list - php artisan route:list
 config cache clear - php artisan config:clear
 get the vendor packages - composer install
+```
 
 Thank you
